@@ -1,0 +1,31 @@
+.container_all_library{
+  height: 80vh;
+
+}
+.container_content{
+  display: flex;
+  /* flex-direction: column;
+  align-items: center;
+  justify-content: center; */
+  width: 100vw !important;
+}
+
+.Container_nav{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+  background-color: antiquewhite;
+
+}
+
+.nav_items{
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+  text-decoration: none;
+  color: black;
+  font-size: 1.2rem;
+
+}

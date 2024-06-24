@@ -1,0 +1,11 @@
+.container_notFound {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  width: 100vw;
+  height: 80vh;
+  background-image: url("../../../public/Assets/img/NotFound/Stress.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50%;
+}

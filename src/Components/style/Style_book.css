@@ -1,0 +1,9 @@
+.container_detail_book{
+    display: flex;
+
+}
+
+.description{
+    display: flex;
+    flex-direction:column ;
+}
